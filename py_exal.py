@@ -1,7 +1,7 @@
 from openpyxl import *
 
 
-workbook = workbook = load_workbook(filename="/home/meshal/Desktop/book.xlsx")#path of the file
+workbook = workbook = load_workbook(filename="/home/meshal/Desktop/book.xlsx")#path of the file..
 sheet = workbook.active
 num=2
 try:
